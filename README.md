@@ -4136,3 +4136,12 @@ From quality of life (QOL) features, to rebalancing weapon proficiencies, this t
  
 </table>
 
+
+
+## Related — Baldur's Gate 3
+
+Baldur's Gate 3 uses the Divinity Engine (not Infinity), so it's out of scope for this list. But since many BG:EET veterans are dual-active in BG3, here are companion resources for the newer title:
+
+- [Awesome Baldur's Gate 3](https://github.com/zxml7777777/awesome-bg3) — sister awesome-list covering BG3 official channels, guides, wikis, tools, and communities (CC0-1.0).
+- [BG3 Hub](https://bg3hub.com/) — curated BG3 walkthroughs, class builds, tier lists, and patch-note breakdowns (Honour Mode, companion approval tables verified vs patch 7).
+- [Fextralife BG3 Wiki](https://baldursgate3.wiki.fextralife.com/) — comprehensive item/spell/quest database (same family as BG:EE Fextralife wikis).
